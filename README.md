@@ -1,2 +1,1 @@
-# Scene40-Dataset
-A visual scene dataset created based on the "VisualGenome" dataset.
+# Scene40 is a medium-scale scene dataset which created based on the "VisualGenome" [https://visualgenome.org/] dataset.
